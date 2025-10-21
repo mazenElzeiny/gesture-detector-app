@@ -1,0 +1,8 @@
+# Development requirements for building the app
+# Note: Kivy and PyJNIus are specified in buildozer.spec for Android builds
+
+# For building Android APK
+buildozer
+
+# For local development/testing (optional)
+kivy==2.2.1
